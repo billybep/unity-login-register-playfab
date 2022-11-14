@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4977463215",
+    "project_id": "unityloginregister-f04ac",
+    "storage_bucket": "unityloginregister-f04ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4977463215:android:2e1e7aa81641e8979e295a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UnityLoginRegister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4977463215-hcfvmrrhsijf0qm84qndj0tq7slguvnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeq40SCJPG8t-aIcMVyefh3PVU1C3Fh8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4977463215-hcfvmrrhsijf0qm84qndj0tq7slguvnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
